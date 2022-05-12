@@ -1,27 +1,49 @@
-# BanklineApp
+# <P align="center"><font color="red">**SANTADER</font> DEV WEEK**</P>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+# <p align="center">Construindo um Front-end Angular de Extrato Bancário.<p>
 
-## Development server
+Desafio: Desenvolver um Website usando uma das tecnologias mais hypadas de Front-end, o Angular (Google). Para isso, nossa API REST será consumida, visando a criação de uma tela de extrato bancário com padrões bem definidos de UI/UX.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📝 Tecnologias
 
-## Code scaffolding
+- JavaScript: Linguagem oficial para desenvolvimento web.
+- TypeScript: Superset que adiciona recursos como tipagem de dados e outros recursos sobre JavaScript 
+- NodeJS: Plataforma que nos permite rodar JavaScript fora do navegador.
+- Angular: Framework JavaScript que provê mecanismos de manipulação da DOM e o padrão SPA.
+- VS Code: IDE para desenvolvimento Web desenvolvida pela Microsoft.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167973345-8988dcdc-0b90-49c6-a584-3b6d2045df9a.png"/></P>
 
-## Build
+## 📝 Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p align="center">Esta etapa do projeto consiste em criar uma aplicação web que se comunicará via requisições https baseadas na arquitetura REST em nossa Brankline-API desenvolvida com Springboot e disponibilzada no Heroku.</p>
 
-## Running unit tests
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167973723-733c56ef-bd76-484f-b8b8-bdc9aa8a26c4.png"/></P>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Exploramos os recursos essenciais em um desenvolvimento utilizando Angular conforme abaixo:
 
-## Running end-to-end tests
+- Angular 13: https://angular.io/ 
+- Angular HttpClient: https://angular.io/api/common/http/HttpClient 
+- Angular Router: https://angular.io/api/router 
+- Bootstrap 5: https://getbootstrap.com/ 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📝 Projeto Concluido
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167975519-c8a3d3ea-2705-440e-9ec1-c6d0857f0dbf.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167975591-54453d7b-6ccb-401d-b867-b422e1f9d117.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167975879-b3484d5b-7248-4418-857d-3741cd5b6b3a.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167975942-509dc93e-1256-4ea0-9238-e82c326ead86.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/167975986-75b9140b-8189-4457-9694-ed805bfbe467.png"/></P>
