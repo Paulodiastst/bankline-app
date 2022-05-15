@@ -37,7 +37,7 @@ Desafio: Desenvolver um Website usando uma das tecnologias mais hypadas de Front
 <img src="https://user-images.githubusercontent.com/79487813/167975519-c8a3d3ea-2705-440e-9ec1-c6d0857f0dbf.png"/></P>
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167975591-54453d7b-6ccb-401d-b867-b422e1f9d117.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/168497272-16257da3-c08d-488f-bac8-e68ae935fb68.png"/></P>
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/167975879-b3484d5b-7248-4418-857d-3741cd5b6b3a.png"/></P>
