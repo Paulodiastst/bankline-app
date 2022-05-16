@@ -20,7 +20,7 @@ Desafio: Desenvolver um Website usando uma das tecnologias mais hypadas de Front
 <p align="center">Esta etapa do projeto consiste em criar uma aplicação web que se comunicará via requisições https baseadas na arquitetura REST em nossa Brankline-API desenvolvida com Springboot e disponibilzada no Heroku.</p>
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167973723-733c56ef-bd76-484f-b8b8-bdc9aa8a26c4.png"/></P>
+<img src="(https://user-images.githubusercontent.com/79487813/168662694-6b022f4b-cf1b-4987-96a3-173a4b6a491c.png"/></P>
 
 ## Exploramos os recursos essenciais em um desenvolvimento utilizando Angular conforme abaixo:
 
